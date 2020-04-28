@@ -6,7 +6,7 @@
 <HR>
 <h3>Utilizing the Azure Linux CLI, these labs will allow you to interact with Azure to perform the following tasks using Ansible by Red Hat:</h3>
 <HR>
-<b>Deploy an application and leverage Cloud Native services to scale:</b>
+<b>Deploy an application and leverage Cloud Native services to scale using Azure:</b>
 
 	*  Working with the Azure Linux CLI
 	*  Connecting Ansible to Microsoft Azure
